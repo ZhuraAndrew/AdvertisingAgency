@@ -1,3 +1,0 @@
-# AdvertisingAgency
-LogosHomeWork
-Readmy
